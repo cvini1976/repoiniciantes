@@ -15,12 +15,12 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em buscar de aprender novos desa
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ##  GitHub
-![Compartilhando no GitHub]()
+[Compartilhando no GitHub]()
 
-![Projetos]()
+[Projetos]()
 
 ##  Vamos Conectar?
-[![LinkedIn](https://www.linkedin.com/in/carlosviniciosferreira/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosviniciosferreira/)
 
 [Portfolio]()
 
