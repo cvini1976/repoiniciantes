@@ -4,10 +4,10 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em buscar de aprender novos desa
 
 ##  Sobre Mim
 -  Atualmente, estou aprimorando minhas habilidades em **[Cloud Computing, Python, Articial Intelligence, Machine Learning, Data Analytics, CyberSecurity Git and Git GitHub]**.
--  Trabalho como **[Analista de Negocios em TI** no **Mercado da Area de Saude]**.
--  Tenho interesse em **[áreas de interesse, Python , Analise de Dados, Inteligencia Artificial, Cloud e Security]**.
--  Como me encontrar: [ <img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">]
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)(https://x.com/cvini1976)]
+-  Trabalho como **[Analista de Negocios em TI** no **Mercado da Area de Saúde]**.
+-  Tenho interesse em **[áreas de interesse, Python , Analise de Dados, Inteligência Artificial, Cloud e Security]**.
+-  Como me encontrar: <img align="center" alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">
+                       [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)(https://x.com/cvini1976)]
 
 ## ️ Tecnologias e Ferramentas
 
@@ -21,7 +21,8 @@ Bem-vindo ao meu perfil no GitHub! Estou sempre em buscar de aprender novos desa
 
 ##  Vamos Conectar?
 [![LinkedIn](https://www.linkedin.com/in/carlosviniciosferreira/)]
-[![Portfolio]()]
+
+[Portfolio]()
 
 ##  Projetos em Destaque
 - [**Projeto 1**]()
